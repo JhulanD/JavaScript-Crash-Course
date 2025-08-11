@@ -1,4 +1,4 @@
-# 📚 JavaScript Crash Course 2021 – Master JavaScript in One Video
+# 📚 JavaScript Crash Course
 ---
 📬 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhulandey/)
