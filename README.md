@@ -1,15 +1,16 @@
-# 📚 JavaScript Crash Course
----
+
+
 📬 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhulandey/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://contra.com/jhulandey)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/JhulanD)
 ---
+---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="80" align="left" style="margin-right: 15px;"/>
 
-This repository contains my notes, code snippets, and exercises from the **[JavaScript Crash Course 2021 – Master JavaScript in One Video](https://www.youtube.com/watch?v=g7T23Xzys-A&list=PL2e00V5McIKQoAsYN2EwTKIvQzZDz69Hd&index=8)** by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).  
-It’s part of my **Full Stack Development Roadmap** and focuses on mastering JavaScript fundamentals.
+This repository contains my notes, code snippets, and exercises from the **[Master JavaScript in One Video](https://www.youtube.com/watch?v=g7T23Xzys-A&list=PL2e00V5McIKQoAsYN2EwTKIvQzZDz69Hd&index=8)** by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).  
+It’s part of focuss on mastering JavaScript fundamentals.
 
 ---
 
